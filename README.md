@@ -6,9 +6,9 @@
 </h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrabanchakma" alt="shrabanchakma" /></a> </p>
 
-- 🔭 I’m currently working on [ShipSwiftly](https://shipswiftly-b8a12.web.app/)
+- 🔭 Currently working on [ShipSwiftly](https://shipswiftly-b8a12.web.app/)
 
-- 🌱 I’m currently learning **mongodb**
+- 🌱 Currently learning **mongodb**
 
 - 💬 Ask me about **html5, CSS, tailwind, javaScript, react, nodeJs, expressJs and mongodb**
 
