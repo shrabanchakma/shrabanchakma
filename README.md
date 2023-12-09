@@ -1,7 +1,9 @@
-
-<h1 align="center">Hi 👋, I'm Shraban Chakma</h1>
-<h3 align="center">Currently coding</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<h1 align="center">
+ <img src="https://raw.githubusercontent.com/shrabanchakma/shrabanchakma/main/February%20News.png" />
+</h1>
+<h1 align="center">
+<img alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrabanchakma" alt="shrabanchakma" /></a> </p>
 
 - 🔭 I’m currently working on [ShipSwiftly](https://shipswiftly-b8a12.web.app/)
